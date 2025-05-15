@@ -1,4 +1,5 @@
 These are simple bitmap fonts intended for pixel art games. Works out of the box with [raylib](https://github.com/raysan5/raylib).
+![alt text](https://github.com/Grant-Little/pixel-fonts/blob/master/fonts.png)
 
 # Important Information
  - The fonts contain all the standard ascii printable runes.
