@@ -1,0 +1,10 @@
+*
+
+!.gitignore
+!README.md
+!LICENSE
+!pixel-font-8.png
+!pixel-font-11.png
+!pixel-font-15.png
+!raylib-test.c
+!build.sh
